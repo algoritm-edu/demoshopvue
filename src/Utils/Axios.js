@@ -9,4 +9,4 @@ const defaultDB = axios.create({
     responseType: 'json',
 })
 
-export default defaultDB
+export default defaultDB    
